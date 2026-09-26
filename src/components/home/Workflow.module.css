@@ -1,0 +1,3 @@
+.workflow :is(h2, p, span) {
+  color: #111111;
+}
